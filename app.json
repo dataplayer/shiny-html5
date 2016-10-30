@@ -1,0 +1,16 @@
+{
+  "name": "shiny-html5",
+  "description": "Simple html5 web page with Shiny iframes",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
